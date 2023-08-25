@@ -1,3 +1,13 @@
+### Screenshhots
+
+![WelcomeScreen](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/WelcomeScreen.png)
+
+![MainContentScreen](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/MainContentScreen.png)
+
+![MainContentScreen-withDropdown](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/MainContentScreen-withDropdown.png)
+
+<hr />
+
 ### Visit - https://lexus-top-github.netlify.app
 
 <hr />
@@ -17,6 +27,10 @@
 #### My Linkedin
 
 - https://www.linkedin.com/in/lokeshvishwakarma/
+
+<hr />
+
+Figma - https://www.figma.com/file/bSs43osZ4gTRLJo0rHMCWN/LexusTopGithub?type=design&node-id=0-1&mode=design
 
 <hr />
 

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/favicon.gif" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #0d1117;
+        color: #333;
+        line-height: 1.6;
+      }
+
+      .welcome_screen {
+        position: fixed;
+        width: 100%;
+        min-height: 100vh;
+        z-index: 10;
+        background-color: #0d1117;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .center_main_welcome_container {
+        background-color: #262b33;
+        min-height: 70vh;
+        width: 80%;
+        border-radius: 4rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+        position: relative;
+      }
+
+      .center_main_welcome_container h1 {
+        color: #ffffff;
+        font-size: clamp(2px, 7vw, 7rem);
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .center_main_welcome_container h1::before {
+        content: "";
+        display: block;
+        height: 86%;
+        width: 7%;
+        background: blue;
+        position: absolute;
+        border-radius: 20px;
+        left: -19%;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .center_main_welcome_container img {
+        position: absolute;
+        width: 450px;
+        z-index: -1;
+        filter: brightness(0.5);
+        opacity: 0.7;
+      }
+    </style>
+    <title>Lexus TopGithub</title>
+    <script type="module" crossorigin src="/assets/index-fa0b51cf.js"></script>
+    <link rel="stylesheet" href="/assets/index-f7aef664.css">
+  </head>
+  <body>
+    <div class="welcome_screen">
+      <div class="center_main_welcome_container">
+        <h1>WELCOME</h1>
+        <img src="/welcome_cat.png" alt="welcome-cat" />
+      </div>
+    </div>
+    <div id="root"></div>
+    
+  </body>
+</html>

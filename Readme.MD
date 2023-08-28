@@ -1,47 +1,54 @@
-### Screenshhots
+## Lexus Top GitHub
 
-![WelcomeScreen](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/WelcomeScreen.png)
+Explore the Lexus Top GitHub showcase – a curated collection of top GitHub repositories. Discover my all github's and impressive project's at one place.
 
-![MainContentScreen](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/MainContentScreen.png)
+### Screenshots
 
-![MainContentScreen-withDropdown](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/MainContentScreen-withDropdown.png)
+Take a glimpse of the Lexus Top GitHub interface:
 
-<hr />
+- ![Welcome Screen](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/WelcomeScreen.png)
+- ![Main Content Screen](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/MainContentScreen.png)
+- ![Main Content Screen with Dropdown](https://raw.githubusercontent.com/lexuscreations/lexus-top-github/main/screenshots/MainContentScreen-withDropdown.png)
 
-### Visit - https://lexus-top-github.netlify.app
+---
 
-<hr />
+### Experience It
 
-#### Download functionality | link
+Visit the Lexus Top GitHub showcase and explore outstanding projects:
+[Visit Lexus Top GitHub](https://lexus-top-github.netlify.app)
 
-- https://github.com/{repo.full_name}/archive/refs/heads/{repo.default_branch}.zip
+---
 
-<hr />
+### Resources
 
-#### API to get github user profile data
+- GitHub Project Repository: [Lexus Top GitHub Repository](https://github.com/lexuscreations/lexus-top-github/)
 
-- https://api.github.com/users/{githubUserName}
+#### API Endpoints
 
-<hr />
+- **Download Functionality | Link**: `https://github.com/{repo.full_name}/archive/refs/heads/{repo.default_branch}.zip`
 
-#### My Linkedin
+- **API to Get GitHub User Profile Data**: `https://api.github.com/users/{githubUserName}`
 
-- https://www.linkedin.com/in/lokeshvishwakarma/
+- **Background Image for Repo Card Footer**: `https://github.githubassets.com/images/modules/dashboard/universe23/bg.png`
 
-<hr />
+- **API to Get GitHub User's Repositories**: `https://api.github.com/users/{githubUserName}/repos`
 
-Figma - https://www.figma.com/file/bSs43osZ4gTRLJo0rHMCWN/LexusTopGithub?type=design&node-id=0-1&mode=design
+---
 
-<hr />
+#### Connect with Me
 
-#### Background that I'm using for repo_card\_\_footer
+Let's connect on LinkedIn and stay in touch:
 
-- https://github.githubassets.com/images/modules/dashboard/universe23/bg.png
+- [My LinkedIn Profile](https://www.linkedin.com/in/lokeshvishwakarma/)
 
-<hr />
+---
 
-#### API to get githubUser repo's
+#### Figma Design
 
-https://api.github.com/users/{githubUserName}/repos
+Explore the Figma design of the Lexus Top GitHub showcase:
 
-<hr />
+- [Figma Design - Lexus Top Github](https://www.figma.com/file/bSs43osZ4gTRLJo0rHMCWN/LexusTopGithub?type=design&node-id=0-1&mode=design)
+
+---
+
+Explore, connect, and engage with the Lexus Top GitHub showcase to discover the latest in open-source innovation!

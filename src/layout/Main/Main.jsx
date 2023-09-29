@@ -1,6 +1,6 @@
 import React from "react";
-import Aside from "./components/Aside";
-import RepoSection from "./components/RepoSection";
+import Aside from "../../components/Aside";
+import ReposListingSection from "../../components/ReposListingSection";
 
 const Main = ({ currentSelectedUserProfilesData }) => {
   return (
@@ -10,7 +10,7 @@ const Main = ({ currentSelectedUserProfilesData }) => {
           currentSelectedUserProfilesData.profile_result_data || {}
         }
       />
-      <RepoSection
+      <ReposListingSection
         currentSelectedUserProfilesData={
           currentSelectedUserProfilesData.repo_result_data || []
         }

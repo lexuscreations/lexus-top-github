@@ -1,7 +1,8 @@
-import { useEffect, useState } from "react";
 import config from "./config";
 import Main from "./layout/Main/Main";
+// import Footer from "./layout/Footer/Footer";
 import Header from "./layout/Header/Header";
+import { useEffect, useState } from "react";
 
 function removeStartingWords(inputString, wordsArray) {
   const lowerCaseInput = inputString.toLowerCase();
@@ -78,6 +79,7 @@ const App = () => {
         onDefaultSelectedProfileChange={onDefaultSelectedProfileChange}
       />
       <Main currentSelectedUserProfilesData={currentSelectedUserProfilesData} />
+      {/* <Footer /> */}
     </div>
   );
 };
